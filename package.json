@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "Ly3ssia",
+  "author": "Criess",
   "license": "ISC",
   "dependencies": {
     "@discordjs/rest": "^1.0.0",
