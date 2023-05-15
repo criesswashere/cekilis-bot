@@ -68,7 +68,7 @@ client.login(TOKEN).then(app => {
 
 const modal = new ModalBuilder()
 .setCustomId('form')
-.setTitle('Godzilla - Çekiliş Kurulum!')
+.setTitle('Criess - Çekiliş Kurulum!')
   const a1 = new TextInputBuilder()
   .setCustomId('prize')
   .setLabel('Ödül')
